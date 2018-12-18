@@ -1,7 +1,7 @@
 #
 # Example file for working with classes
 #
-
+#Adding one more line
 class myClass():
   def method1(self):
     print ("myClass method1")
